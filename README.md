@@ -7,6 +7,10 @@ Momentum is an extension of Gradient Descent that helps accelerate convergence b
 
 3. RMSprop
 RMSprop (Root Mean Square Propagation) is an adaptive learning rate method that adjusts the learning rate for each parameter. It divides the learning rate by an exponentially decaying average of squared gradients, which helps in dealing with the vanishing and exploding gradient problems.
+![images](https://github.com/Arash7662536/optimization/assets/129587820/b06c716b-a126-47f8-b47a-e2dd1572deb9)
+![images](https://github.com/Arash7662536/optimization/assets/129587820/5698609d-7f92-4919-9e92-92422ae43879)
+
+
 
 4. Adam
 Adam (Adaptive Moment Estimation) combines the advantages of both Momentum and RMSprop. It computes adaptive learning rates for each parameter and maintains two moving averages of the gradient and the squared gradient. This makes Adam particularly effective for large-scale and sparse data.
